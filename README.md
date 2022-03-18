@@ -1,6 +1,5 @@
 # LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild
-
-## Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
+### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
 
 The compiled audiovisual database is composed of around 13 hours of 
 semi-automatically collected and annotated data. It is necessary to
@@ -15,11 +14,11 @@ database is made up of different programmes broadcast by Radio
 Televisión Española (RTVE), we compiled our corpus only from the
 news programme 20H.
 
-### HOWEVER, THE LIP-RTVE DATABASE IS NOT AVAILABRE AT THE MOMENT. In
-order to facilitate the treatment of our data in future reseach and
+### HOWEVER, THE LIP-RTVE DATABASE IS NOT AVAILABRE AT THE MOMENT.
+In order to facilitate the treatment of our data in future reseach and
 taking into account a Non-Disclouse Agreement (NSA) license, we are
 processing the data to ensure a proper use of this database.
-### THE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE
+### THE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 
 Thank you. We apologize for the inconvenience.
 
