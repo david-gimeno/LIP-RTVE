@@ -5,7 +5,7 @@ LIP-RTVE is an audiovisual database that was primarily conceived at the first in
 https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.png
 
 <p align="center">
-  <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.png" alt="An extract of LIP-RTVE samples"/>
+  <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.png" width="50" alt="An extract of LIP-RTVE samples"/>
 </p>
 
 It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our only from the news programme 20H.
