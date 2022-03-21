@@ -2,7 +2,6 @@
 ### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
 
 LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition task for the Spanish language. 
-https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.png
 
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.png" width="500" alt="An extract of LIP-RTVE samples"/>
@@ -31,6 +30,8 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 ##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 
 Thank you. We apologize for the inconvenience.
+
+### References
 
 1. @article{11lleida2018rtve2018,
      Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},
