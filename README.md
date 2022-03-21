@@ -45,7 +45,7 @@ We are awaiting for a response from the LREC conference regarding our proposed a
    }
 }
 
-> @article{12lleida2019albayzin,
+> @article{12lleida2019albayzin,<br/>
      title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},
      author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},
      journal={Applied Sciences},
