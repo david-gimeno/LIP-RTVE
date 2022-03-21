@@ -45,7 +45,7 @@ We are awaiting for a response from the LREC conference regarding our proposed a
    }
 }
 
-2. @article{12lleida2019albayzin,
+> @article{12lleida2019albayzin,
      title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},
      author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},
      journal={Applied Sciences},
@@ -59,7 +59,7 @@ We are awaiting for a response from the LREC conference regarding our proposed a
      publisher={Multidisciplinary Digital Publishing Institute}
    }
 
-3. @article{sagonas2016,
+> @article{sagonas2016,
      title = {300 Faces In-The-Wild Challenge: database and results},
      journal = {Image and Vision Computing},
      volume = {47},
