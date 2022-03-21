@@ -44,7 +44,8 @@ We are awaiting for a response from the LREC conference regarding our proposed a
     Year = {2018},<br/>
     Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }<br/>}
 }
-
+```
+```
 @article{12lleida2019albayzin,<br/>
      title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},<br/>
      author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},<br/>
@@ -58,7 +59,8 @@ We are awaiting for a response from the LREC conference regarding our proposed a
      doi={10.3390/app9245412},<br/>
      publisher={Multidisciplinary Digital Publishing Institute}<br/>
    }
-
+```
+```
 @article{sagonas2016,<br/>
      title = {300 Faces In-The-Wild Challenge: database and results},<br/>
      journal = {Image and Vision Computing},<br/>
