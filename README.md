@@ -36,13 +36,12 @@ We are awaiting for a response from the LREC conference regarding our proposed a
 
 ### References
 
-> @article{11lleida2018rtve2018,<br/>
-     Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},
-     Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},<br/>
-     Title = {RTVE2018 database description},<br/>
-     Year = {2018},<br/>
-     Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }<br/>
-   }
+>@article{11lleida2018rtve2018,<br/>
+&#9;Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},
+&#9;Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},<br/>
+&#9;Title = {RTVE2018 database description},<br/>
+&#9;Year = {2018},<br/>
+&#9;Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }<br/>}
 }
 
 > @article{12lleida2019albayzin,<br/>
