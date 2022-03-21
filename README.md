@@ -36,7 +36,7 @@ We are awaiting for a response from the LREC conference regarding our proposed a
 
 ### References
 
-1. @article{11lleida2018rtve2018,
+> @article{11lleida2018rtve2018,
      Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},
      Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},
      Title = {RTVE2018 database description},
