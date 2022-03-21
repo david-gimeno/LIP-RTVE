@@ -36,38 +36,38 @@ We are awaiting for a response from the LREC conference regarding our proposed a
 
 ### References
 
-> @article{11lleida2018rtve2018,
+> @article{11lleida2018rtve2018,<br/>
      Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},
-     Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},
-     Title = {RTVE2018 database description},
-     Year = {2018},
-     Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }
+     Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},<br/>
+     Title = {RTVE2018 database description},<br/>
+     Year = {2018},<br/>
+     Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }<br/>
    }
 }
 
 > @article{12lleida2019albayzin,<br/>
-     title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},
-     author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},
-     journal={Applied Sciences},
-     volume={9},
-     number={24},
-     pages={5412},
-     year={2019},
-     url={https://www.mdpi.com/2076-3417/9/24/5412},
-     issn={2076-3417},
-     doi={10.3390/app9245412}
-     publisher={Multidisciplinary Digital Publishing Institute}
+     title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},<br/>
+     author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},<br/>
+     journal={Applied Sciences},<br/>
+     volume={9},<br/>
+     number={24},<br/>
+     pages={5412},<br/>
+     year={2019},<br/>
+     url={https://www.mdpi.com/2076-3417/9/24/5412},<br/>
+     issn={2076-3417},<br/>
+     doi={10.3390/app9245412},<br/>
+     publisher={Multidisciplinary Digital Publishing Institute}<br/>
    }
 
-> @article{sagonas2016,
-     title = {300 Faces In-The-Wild Challenge: database and results},
-     journal = {Image and Vision Computing},
-     volume = {47},
-     pages = {3-18},
-     year = {2016},
-     note = {300-W, the First Automatic Facial Landmark Detection in-the-Wild Challenge},
-     issn = {0262-8856},
-     doi = {https://doi.org/10.1016/j.imavis.2016.01.002},
-     url = {https://www.sciencedirect.com/science/article/pii/S0262885616000147},
-     author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou and Maja Pantic}
+> @article{sagonas2016,<br/>
+     title = {300 Faces In-The-Wild Challenge: database and results},<br/>
+     journal = {Image and Vision Computing},<br/>
+     volume = {47},<br/>
+     pages = {3-18},<br/>
+     year = {2016},<br/>
+     note = {300-W, the First Automatic Facial Landmark Detection in-the-Wild Challenge},<br/>
+     issn = {0262-8856},<br/>
+     doi = {https://doi.org/10.1016/j.imavis.2016.01.002},<br/>
+     url = {https://www.sciencedirect.com/science/article/pii/S0262885616000147},<br/>
+     author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou and Maja Pantic}<br/>
    }
