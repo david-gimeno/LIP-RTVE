@@ -1,4 +1,4 @@
-# LIP-RTVE: AN AUDIOVISUAL DATABASE FOR CONTINUOUS SPANISH IN THE WILD
+# LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild
 ##### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
 
 ### INTRODUCTION
@@ -30,6 +30,9 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 ##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 
 Thank you. We apologize for the inconvenience.
+
+### Citation
+We are awaiting for a response from the LREC conference regarding our proposed article.
 
 ### References
 
