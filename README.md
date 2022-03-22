@@ -10,6 +10,13 @@ LIP-RTVE is an audiovisual database that was primarily conceived at the first in
 
 ### DATA STRUCTURE & SCRIPTS
 ##### HOWEVER, THE COMPLETE LIP-RTVE DATABASE IS NOT AVAILABLE AT THE MOMENT.
+##### IT WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
+<p>
+  <img src="https://progress-bar.dev/30/?width=150&title=Processed samples: " /><br>
+  <img src="https://progress-bar.dev/0/?width=150&title=Processed landmarks: " /><br>
+</p>
+##### Thank you. We apologize for the inconvenience.
+
 In order to facilitate the use of our data in future reseach and taking into account a Non-Disclouse Agreement (NSA) license, we are
 processing the data to ensure a proper use of this database.
 
@@ -28,14 +35,6 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" alt="The ROI extraction process and the different ROIs employed in our research"/>
 </p>
-
-##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
-<p>
-  <img src="https://progress-bar.dev/30/?width=150&title=Processed samples: " /><br>
-  <img src="https://progress-bar.dev/0/?width=150&title=Processed landmarks: " /><br>
-</p>
-
-Thank you. We apologize for the inconvenience.
 
 ### Citation
 We are awaiting for a response from the LREC conference regarding our proposed article.
