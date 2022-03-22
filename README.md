@@ -42,48 +42,52 @@ We are awaiting for a response from the LREC conference regarding our proposed a
 
 ### References
 
+1.
 ```
-1. @article{11lleida2018rtve2018,
-     Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},      Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},<br/>
-     Title = {RTVE2018 database description},
-     Year = {2018},
-     Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }}
-   }
+@article{11lleida2018rtve2018,
+   Author = {Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n, Virginia and P{\'e}rez, Carmen and Zotano, M and de Prada, Alberto},      Journal = {Vivolab and Corporaci{\'o}n Radiotelevisi{\'o}n Espa{\~n}ola, Zaragoza, Spain},<br/>
+   Title = {RTVE2018 database description},
+   Year = {2018},
+   Note = {[Online] Available: \url{ http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf }}
+}
 ```
+2.
 ```
-2. @article{12lleida2019albayzin,
-     title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},
-     author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},
-     journal={Applied Sciences},
-     volume={9},
-     number={24},
-     pages={5412},
-     year={2019},
-     url={https://www.mdpi.com/2076-3417/9/24/5412},
-     issn={2076-3417},
-     doi={10.3390/app9245412},
-     publisher={Multidisciplinary Digital Publishing Institute}
-   }
+@article{12lleida2019albayzin,
+   title={Albayzin 2018 evaluation: the iberspeech-RTVE challenge on speech technologies for spanish broadcast media},
+   author={Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Baz{\'a}n-Gil, Virginia and P{\'e}rez, Carmen and G{\'o}mez, Manuel and de Prada, Alberto},
+   journal={Applied Sciences},
+   volume={9},
+   number={24},
+   pages={5412},
+   year={2019},
+   url={https://www.mdpi.com/2076-3417/9/24/5412},
+   issn={2076-3417},
+   doi={10.3390/app9245412},
+   publisher={Multidisciplinary Digital Publishing Institute}
+}
 ```
+3.
 ```
-3. @article{sagonas2016,
-     title = {300 Faces In-The-Wild Challenge: database and results},
-     journal = {Image and Vision Computing},
-     volume = {47},
-     pages = {3-18},
-     year = {2016},
-     note = {300-W, the First Automatic Facial Landmark Detection in-the-Wild Challenge},
-     issn = {0262-8856},
-     doi = {https://doi.org/10.1016/j.imavis.2016.01.002},
-     url = {https://www.sciencedirect.com/science/article/pii/S0262885616000147},
-     author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou and Maja Pantic}
-   }
+@article{sagonas2016,
+   title = {300 Faces In-The-Wild Challenge: database and results},
+   journal = {Image and Vision Computing},
+   volume = {47},
+   pages = {3-18},
+   year = {2016},
+   note = {300-W, the First Automatic Facial Landmark Detection in-the-Wild Challenge},
+   issn = {0262-8856},
+   doi = {https://doi.org/10.1016/j.imavis.2016.01.002},
+   url = {https://www.sciencedirect.com/science/article/pii/S0262885616000147},
+   author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou and Maja Pantic}
+}
 ```
+4.
 ```
-4. @article{ma2022visual,
-     title={{Visual Speech Recognition for Multiple Languages in the Wild}},
-     author={Ma, Pingchuan and Petridis, Stavros and Pantic, Maja},
-     journal={{arXiv Preprint: 2202.13084}},
-     year={2022}
-   }
+@article{ma2022visual,
+   title={{Visual Speech Recognition for Multiple Languages in the Wild}},
+   author={Ma, Pingchuan and Petridis, Stavros and Pantic, Maja},
+   journal={{arXiv Preprint: 2202.13084}},
+   year={2022}
+}
 ```
