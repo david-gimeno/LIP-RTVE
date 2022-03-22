@@ -30,8 +30,8 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 ##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 
 <p>
-  <img src="https://progress-bar.dev/30/" />
-  <img src="https://progress-bar.dev/0/" />
+  <img src="https://progress-bar.dev/30/?title=Processed samples" /><br>
+  <img src="https://progress-bar.dev/0/" /><br>
 </p>
 
 Thank you. We apologize for the inconvenience.
