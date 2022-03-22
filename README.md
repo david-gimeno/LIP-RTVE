@@ -31,7 +31,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" alt="The ROI extraction process and the different ROIs employed in our research"/>
 </p>
 
-##### THE COMPLET LIP-RTVE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
+##### THE COMPLETE LIP-RTVE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 <p>
   <img src="https://progress-bar.dev/30/?width=150&title=Processed samples: " /><br>
   <img src="https://progress-bar.dev/0/?width=150&title=Processed landmarks: " /><br>
