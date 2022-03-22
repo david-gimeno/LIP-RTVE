@@ -28,10 +28,10 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 </p>
 
 ##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
-
+https://progress-bar.dev/420/?scale=500&title=funds&width=120&color=babaca&suffix=$
 <p>
-  <img src="https://progress-bar.dev/30/?title=Processed samples: " /><br>
-  <img src="https://progress-bar.dev/0/?title=Processed landmarks: " /><br>
+  <img src="https://progress-bar.dev/30/?width=150&title=Processed samples: " /><br>
+  <img src="https://progress-bar.dev/0/?width=150&title=Processed landmarks: " /><br>
 </p>
 
 Thank you. We apologize for the inconvenience.
