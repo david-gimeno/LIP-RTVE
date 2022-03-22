@@ -29,6 +29,9 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 
 ##### THE COMPLETE LIP-RVTE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
 
+[X] https://progress-bar.dev/<30>?title=<#Processed samples>
+[] https://progress-bar.dev/<0>?title=<#Processed landmarks>
+
 Thank you. We apologize for the inconvenience.
 
 ### Citation
