@@ -2,7 +2,7 @@
 ##### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
 
 ### INTRODUCTION
-LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
+LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition (VSR) task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
 
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.gif" width="500" alt="An extract of LIP-RTVE samples"/>
@@ -21,7 +21,9 @@ In any case, we are updating the data has already been computed. Thus, our ultim
      - startTime: time when the LIP-RTVE sample starts in sourceID
      - duration: duration of the LIP-RTVE sample
 - [**data/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks will allow you to extract the Regions of Interest (ROIs) with complete flexibility.
-- [**data/scripts/ :**]() Folder where python scripts are shared in order to extract the same ROIs we employed in our research. More specifically, we worked with ROIs known as _fitMouth_, _wideMouths_ and _faces_, each of them covering from a smaller to a larger region of the speaker's face.
+- [**data/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus.
+  - [**get_samples.py :**] script to 
+  - [**get_ROIs.py**] script to extract the same ROIs we employed in our research. More specifically, we worked with ROIs known as _fitMouth_, _wideMouths_ and _faces_, each of them covering from a smaller to a larger region of the speaker's face. In addition, there is an option that allows you to extract ROIs following the pattern of other authors, who have recently reached the state of the art in VSR⁴. 
 
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" alt="The ROI extraction process and the different ROIs employed in our research"/>
@@ -76,4 +78,12 @@ We are awaiting for a response from the LREC conference regarding our proposed a
      url = {https://www.sciencedirect.com/science/article/pii/S0262885616000147},
      author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou and Maja Pantic}
    }
+```
+```
+@article{ma2022visual,
+  title={{Visual Speech Recognition for Multiple Languages in the Wild}},
+  author={Ma, Pingchuan and Petridis, Stavros and Pantic, Maja},
+  journal={{arXiv Preprint: 2202.13084}},
+  year={2022}
+}
 ```
