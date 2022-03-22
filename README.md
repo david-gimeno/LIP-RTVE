@@ -22,6 +22,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
      - **startTime:** time when the LIP-RTVE sample starts in its corresponding sourceID
      - **duration:** duration in seconds of the LIP-RTVE sample
 - [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks will allow you to extract the Regions of Interest (ROIs) with complete flexibility.
+- [**src/transcriptions/ :**] Folder where text transcriptions for each LIP-RTVE sample are available in one-line txt files.
 - [**src/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus.
   - [**get_samples.py :**]() script to 
   - [**get_ROIs.py**]() script to extract the same ROIs we employed in our research. More specifically, we worked with ROIs known as _fitMouth_, _wideMouths_ and _faces_, each of them covering from a smaller to a larger region of the speaker's face. In addition, there is an option that allows you to extract ROIs following the pattern of other authors, who have recently reached the state of the art in VSR⁴. 
@@ -35,6 +36,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 <p>
   <img src="https://progress-bar.dev/30/?width=150&title=Processed samples: " /><br>
   <img src="https://progress-bar.dev/0/?width=150&title=Processed landmarks: " /><br>
+  <img src="https://progress-bar.dev/0/?width=150&title=Processed transcriptions: " /><br>
 </p>
 
 Thank you. We apologize for the inconvenience.
