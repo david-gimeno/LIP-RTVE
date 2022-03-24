@@ -44,10 +44,12 @@ Thank you. We apologize for the inconvenience.
 
 ##### HOW CAN I GET THE LIP-RTVE DATABASE? 
 
-1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database [in this link](http://catedrartve.unizar.es/rtvedatabase.html){:target="_blank"}
-2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
-3. Run _get_samples.py_ in order to obtain the MP4 samples that make up the corpus from the RTVE2018 database
-4. Run _get_ROIs.py_. In this way Regions of Interest will be extracted
+1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database 
+2. <a href="http://catedrartve.unizar.es/rtvedatabase.html" target="_blank">in this link</a>
+3. [in this link](http://catedrartve.unizar.es/rtvedatabase.html){:target="_blank"}
+4. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
+5. Run _get_samples.py_ in order to obtain the MP4 samples that make up the corpus from the RTVE2018 database
+6. Run _get_ROIs.py_. In this way Regions of Interest will be extracted
 
 ### Citation
 We are awaiting for a response from the LREC conference regarding our proposed article.
