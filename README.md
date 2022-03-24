@@ -42,7 +42,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 
 Thank you. We apologize for the inconvenience.
 
-##### HOW CAN I GET THE LIP-RTVE DATABASE? 
+### HOW CAN I GET THE LIP-RTVE DATABASE? 
 
 1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database [in this link](http://catedrartve.unizar.es/rtvedatabase.html)
 2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
