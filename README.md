@@ -2,7 +2,7 @@
 ##### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
 
 ### INTRODUCTION
-LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition (VSR) task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
+LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition (VSR) task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE2018 database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
 
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.gif" width="500" alt="An extract of LIP-RTVE samples"/>
@@ -16,7 +16,7 @@ processing the data to ensure a proper use of this database.
 
 In any case, we are updating the data has already been computed. Thus, our ultimate purpose is to provide it in the following structure:
 
-- [**src/alignments.csv :**](https://github.com/david-gimeno/LIP-RTVE/blob/main/data/alignments.csv) This file states where each sample of the LIP-RTVE corpus is located in the source data (RTVE database¹). In this way, there are four columns:
+- [**src/alignments.csv :**](https://github.com/david-gimeno/LIP-RTVE/blob/main/data/alignments.csv) This file states where each sample of the LIP-RTVE corpus is located in the source data (RTVE2018 database¹). In this way, there are four columns:
      - **sampleID:** identificator of the LIP-RTVE sample.
      - **sourceID:** identificator of the TV programme (MP4 format) contained in the source data
      - **startTime:** time when the LIP-RTVE sample starts in its corresponding sourceID
@@ -41,6 +41,13 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 </p>
 
 Thank you. We apologize for the inconvenience.
+
+##### HOW CAN I GET THE LIP-RTVE DATABASE? 
+
+1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database: http://catedrartve.unizar.es/rtvedatabase.html
+2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
+3. Run _get_samples.py_ in order to obtain the MP4 samples that make up the corpus from the RTVE2018 database
+4. Run _get_ROIs.py_. In this way Regions of Interest will be extracted
 
 ### Citation
 We are awaiting for a response from the LREC conference regarding our proposed article.
