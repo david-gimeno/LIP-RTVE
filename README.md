@@ -44,10 +44,7 @@ Thank you. We apologize for the inconvenience.
 
 ##### HOW CAN I GET THE LIP-RTVE DATABASE? 
 
-1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database:
-<p align="center">
-  http://catedrartve.unizar.es/rtvedatabase.html
-</p>
+1. Request and sign the Non-Disclouse Agreement license for downloading the RTVE2018 database [in this link](http://catedrartve.unizar.es/rtvedatabase.html)
 2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
 3. Run _get_samples.py_ in order to obtain the MP4 samples that make up the corpus from the RTVE2018 database
 4. Run _get_ROIs.py_. In this way Regions of Interest will be extracted
