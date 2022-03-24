@@ -50,10 +50,10 @@ Thank you. We apologize for the inconvenience.
 4. Unzip _transcriptions.zip_ and _landmarks.zip_
 5. Extract the Regions of Interest running the script _get_ROIs.py_
 
-### Citation
+### CITATION
 We are awaiting for a response from the LREC conference regarding our proposed article.
 
-### References
+### REFERENCES
 
 1.
 ```
