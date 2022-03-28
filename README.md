@@ -28,6 +28,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
   - [**get_samples.py :**]() script that uses the provided alignments to extract the MP4 samples of the LIP-RTVE from source data
   - [**get_ROIs.py**]() script to extract the same ROIs we employed in our research. More specifically, we worked with ROIs known as _fitMouth_, _wideMouths_ and _faces_, each of them covering from a smaller to a larger region of the speaker's face. In addition, there is an option that allows you to extract ROIs following the pattern of other authors, who have recently reached the state of the art in VSR⁴
   - [**utils.py**]() script where different functions which other scripts need are coded
+  - [**resources/**]() folder containing files needed by the scripts
 
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" alt="The ROI extraction process and the different ROIs employed in our research"/>
