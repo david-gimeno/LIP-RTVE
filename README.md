@@ -47,7 +47,7 @@ Thank you. We apologize for the inconvenience.
 1. Request and sign the Non-Disclouse Agreement license and then download the RTVE2018 database [in this link](http://catedrartve.unizar.es/rtvedatabase.html)
 2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
 3. Create a conda environment with all the necessary dependencies: ```conda env create --name liprtve-env --file=liprtve-env.yml```
-4. Once activated the conda environment, run the following command: ```./MAIN.sh```
+4. Once activated the conda environment, run the following command: ```./MAIN.sh $RTVE2018_path```
 
 ### CITATION
 We are awaiting for a response from the LREC conference regarding our proposed article.
