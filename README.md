@@ -46,9 +46,7 @@ Thank you. We apologize for the inconvenience.
 
 1. Request and sign the Non-Disclouse Agreement license and then download the RTVE2018 database [in this link](http://catedrartve.unizar.es/rtvedatabase.html)
 2. Locate the _train_ and _dev_ datasets from the TV programme known as 20H
-3. Run _get_samples.py_ in order to obtain the MP4 samples that make up the corpus from the RTVE2018 database
-4. Unzip _transcriptions.zip_ and _landmarks.zip_
-5. Extract the Regions of Interest running the script _get_ROIs.py_
+3. Create a conda environment with all dependencies: ```conda env create --name liprtve-env --file=lip-rtve-env.yml```
 
 ### CITATION
 We are awaiting for a response from the LREC conference regarding our proposed article.
