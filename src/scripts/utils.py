@@ -179,8 +179,8 @@ def get_source_rtve2018_path(source_dir, sourceID):
         param: source_dir: str, directory where the RTVE2018 is placed
         param: sourceID: str, identificator of the 20H TV programme where the LIP-RTVE sample is located
     """
-    source_train = [tv_programme.strip() for tv_programme in open("./RTVE2018-20H-train-programmes.txt").readlines()]
-    source_dev = [tv_programme.strip() for tv_programme in open("./RTVE2018-20H-dev-programmes.txt").readlines()]
+    source_train = [tv_programme.strip() for tv_programme in open("./resources/RTVE2018-20H-train-programmes.txt").readlines()]
+    source_dev = [tv_programme.strip() for tv_programme in open("./resources/RTVE2018-20H-dev-programmes.txt").readlines()]
 
     if sourceID in source_train:
         return os.path.join(source_dir, "train", "20H", sourceID + ".mp4")

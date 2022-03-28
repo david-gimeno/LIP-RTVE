@@ -35,7 +35,7 @@ def crop_patch(roi_type, video_pathname, landmarks, window_margin=12):
             transformed_frame, transformed_landmarks = affine_transform(
                 frame,
                 smoothed_landmarks,
-                np.load(os.path.join( os.path.dirname(__file__), "./20words_mean_face.npy")),
+                np.load(os.path.join( os.path.dirname(__file__), "./resources/20words_mean_face.npy")),
                 grayscale=False,
                 )
 
