@@ -22,7 +22,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
      - **startTime:** time when the LIP-RTVE sample starts in its corresponding sourceID
      - **duration:** duration in seconds of the LIP-RTVE sample
 - [**src/transcriptions.zip :**]() ZIP file where text transcriptions for each LIP-RTVE sample were compressed as one-line txt files.
-- [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks will allow you to extract the Regions of Interest (ROIs) with complete flexibility
+- [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software^5,6 will allow you to extract the Regions of Interest (ROIs) with complete flexibility
 - [**src/splits/ :**]() Folder where partitions for both a speaker-independent and speaker-dependent scenario are defined with CSV files.
 - [**src/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus
   - [**get_samples.py :**]() script that uses the provided alignments to extract the MP4 samples of the LIP-RTVE from source data
@@ -61,3 +61,5 @@ We are awaiting for a response from the LREC conference regarding our proposed a
 3. Sagonas, C., Antonakos, E., Tzimiropoulos, G., Zafeiriou, S., and Pantic, M. (2016). 300 faces in-the-wild challenge: database and results. Image and
 Vision Computing, 47:3–18. DOI: https://doi.org/10.1016/j.imavis.2016.01.002, URL: https://www.sciencedirect.com/science/article/pii/S0262885616000147 .
 4. P. Ma, S. Petridis, M. Pantic, Visual Speech Recognition for Multiple Languages in the Wild, arXiv Preprint: 2202.13084 (2022). URL: https://arxiv.org/abs/2202.13084
+5. https://github.com/hhj1897/face_detection
+6. https://github.com/hhj1897/face_alignment
