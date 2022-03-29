@@ -19,7 +19,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 - [**src/alignments.csv :**](https://github.com/david-gimeno/LIP-RTVE/blob/main/data/alignments.csv) This file states where each sample of the LIP-RTVE corpus is located in the source data (RTVE2018 database¹). In this way, there are four columns:
      - **sampleID:** identificator of the LIP-RTVE sample.
      - **sourceID:** identificator of the TV programme (MP4 format) contained in the source data
-     - **startTime:** time when the LIP-RTVE sample starts in its corresponding sourceID
+     - **startTime:** timestamp when the LIP-RTVE sample starts in its corresponding sourceID
      - **duration:** duration in seconds of the LIP-RTVE sample
 - [**src/transcriptions.zip :**]() ZIP file where text transcriptions for each LIP-RTVE sample were compressed as one-line txt files.
 - [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software<sup>4,5</sup>, will allow you to extract the Regions of Interest (ROIs) with complete flexibility
