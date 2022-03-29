@@ -22,7 +22,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
      - **startTime:** time when the LIP-RTVE sample starts in its corresponding sourceID
      - **duration:** duration in seconds of the LIP-RTVE sample
 - [**src/transcriptions.zip :**]() ZIP file where text transcriptions for each LIP-RTVE sample were compressed as one-line txt files.
-- [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software^(5,6), will allow you to extract the Regions of Interest (ROIs) with complete flexibility
+- [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software<sup>5,6</sup>, will allow you to extract the Regions of Interest (ROIs) with complete flexibility
 - [**src/splits/ :**]() Folder where partitions for both a speaker-independent and speaker-dependent scenario are defined with CSV files.
 - [**src/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus
   - [**get_samples.py :**]() script that uses the provided alignments to extract the MP4 samples of the LIP-RTVE from source data
