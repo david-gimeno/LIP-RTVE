@@ -4,6 +4,8 @@
 ### INTRODUCTION
 LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition (VSR) task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE2018 database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
 
+In order to obtain the LIP-RTVE corpus, you must first get access to the original RTVE database which is protected by an Non-Disclouse Agreement (NDA) license. Once you have solved this matter, by using our software and CSV files you will be able to extract the samples that define our compiled LIP-RTVE database. Detailed instructions described below.
+
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.gif" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
