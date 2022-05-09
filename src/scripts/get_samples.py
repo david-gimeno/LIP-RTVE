@@ -51,12 +51,12 @@ def extract_samples(alignments_path, source_dir, output_dir):
 
 if __name__ == "__main__":
     ## DEFINING SCRIPT PARAMETERS ##
-    parser = argparse.ArgumentParser(description='Region of Interest Extraction from the 68 facial landmarks previously computed',
-                                     epilog="Usage: python get_samples.py --alignments ../alignments.csv --source-dir ../data/RTVE2018-20H --output-dir ../data/LIP-RTVE/")
+    parser = argparse.ArgumentParser(description='Samples extractor from the original RTVE database according to the previously computed alignments',
+                                     epilog="Usage: python src/scripts/get_samples.py --alignments ./alignments.csv --source-dir ./data/RTVE2018-20H --output-dir ./data/LIP-RTVE/")
 
-    parser.add_argument("--alignments", default="../alignments.csv", type=str, help="CSV file where alignments are stored.")
-    parser.add_argument("--source-dir", default="../data/RTVE2018-20H/", type=str, help="Directory where MP4 source data is placed.")
-    parser.add_argument("--output-dir", default="../data/LIP-RTVE/", type=str, help="Directory where MP4 samples will be stored.")
+    parser.add_argument("--alignments", default="./alignments.csv", type=str, help="CSV file where alignments are stored.")
+    parser.add_argument("--source-dir", default="./data/RTVE2018-20H/", type=str, help="Directory where MP4 source data is placed.")
+    parser.add_argument("--output-dir", default="./data/LIP-RTVE/", type=str, help="Directory where MP4 samples will be stored.")
 
     args = parser.parse_args()
 
