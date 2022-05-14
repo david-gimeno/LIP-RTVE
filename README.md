@@ -40,7 +40,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 <p>
   <img src="https://progress-bar.dev/100/?width=150&title=Processed alignments: " /><br>
   <img src="https://progress-bar.dev/100/?width=150&title=Supervised alignments: " /><br>
-  <img src="https://progress-bar.dev/40/?width=150&title=Processed landmarks: " /><br>
+  <img src="https://progress-bar.dev/100/?width=150&title=Processed landmarks: " /><br>
   <img src="https://progress-bar.dev/100/?width=150&title=Processed transcriptions: " /><br>
 </p>
 
