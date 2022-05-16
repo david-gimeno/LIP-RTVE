@@ -1,4 +1,4 @@
-name: /home/dgimeno/phd/end2end/src/lip-rtve-env
+name: lip-rtve-env
 channels:
   - conda-forge
   - defaults
@@ -35,12 +35,21 @@ dependencies:
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7f8727e_4
   - pip:
+    - beautifulsoup4==4.11.1
+    - charset-normalizer==2.0.12
+    - filelock==3.7.0
     - future==0.18.2
+    - gdown==4.4.0
+    - idna==3.3
     - numpy==1.22.3
     - opencv-contrib-python==4.5.5.64
     - pandas==1.4.1
+    - pysocks==1.7.1
     - python-dateutil==2.8.2
     - pytz==2022.1
+    - requests==2.27.1
     - six==1.16.0
+    - soupsieve==2.3.2.post1
     - tqdm==4.63.1
-prefix: /home/dgimeno/phd/end2end/src/lip-rtve-env
+    - urllib3==1.26.9
+prefix: /home/dgimeno/.conda/envs/lip-rtve-env

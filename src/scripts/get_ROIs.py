@@ -77,9 +77,9 @@ def extract_rois(samples_dir, landmarks_dir, roi_types, output_dir):
     """
     for roi_type in roi_types:
         spkrs = sorted(os.listdir(landmarks_dir))
-        for spkr in tqdm(spkrs, desc="%Speakers", bar_format='{l_bar}{bar:10}{r_bar}{bar:-10b}'):
+        for spkr in tqdm(spkrs, desc=roi_type + ": %Speakers", bar_format='{l_bar}{bar:10}{r_bar}{bar:-10b}'):
             samples = sorted(os.listdir(os.path.join(landmarks_dir, spkr)))
-            for sample in tqdm(samples, desc="%Samples", leave=False, bar_format='{l_bar}{bar:10}{r_bar}{bar:-10b}'):
+            for sample in tqdm(samples, desc=roi_type + ": %Samples", leave=False, bar_format='{l_bar}{bar:10}{r_bar}{bar:-10b}'):
                 sampleID = sample.split('.')[0]
 
                 sample_path = os.path.join(samples_dir, spkr, sampleID + ".mp4")
