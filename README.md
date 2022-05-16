@@ -11,7 +11,6 @@ In order to obtain the LIP-RTVE corpus, you must first get access to the origina
 </p>
 
 ### DATA STRUCTURE & SCRIPTS
-##### HOWEVER, THE COMPLETE LIP-RTVE DATABASE IS NOT AVAILABLE AT THE MOMENT.
 
 In order to facilitate the use of our data in future reseach and taking into account a Non-Disclouse Agreement (NSA) license, we are
 processing the data to ensure a proper use of this database.
@@ -24,7 +23,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
      - **startTime:** timestamp when the LIP-RTVE sample starts in its corresponding sourceID
      - **duration:** duration in seconds of the LIP-RTVE sample
 - [**src/transcriptions.zip :**]() ZIP file where text transcriptions for each LIP-RTVE sample were compressed as one-line txt files.
-- [**src/landmarks/ :**]() Folder where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software<sup>4,5</sup>, will allow you to extract the Regions of Interest (ROIs) with complete flexibility
+- [**src/landmarks.zip :**]() ZIP file where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software<sup>4,5</sup>, will allow you to extract the Regions of Interest (ROIs) with complete flexibility
 - [**src/splits/ :**]() Folder where partitions for both a speaker-independent and speaker-dependent scenario are defined with CSV files.
 - [**src/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus
   - [**get_samples.py :**]() script that uses the provided alignments to extract the MP4 samples of the LIP-RTVE from source data
@@ -35,16 +34,6 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
-
-##### THE COMPLETE LIP-RTVE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
-<p>
-  <img src="https://progress-bar.dev/100/?width=150&title=Processed alignments: " /><br>
-  <img src="https://progress-bar.dev/100/?width=150&title=Supervised alignments: " /><br>
-  <img src="https://progress-bar.dev/100/?width=150&title=Processed landmarks: " /><br>
-  <img src="https://progress-bar.dev/100/?width=150&title=Processed transcriptions: " /><br>
-</p>
-
-Thank you. We apologize for the inconvenience.
 
 ### HOW CAN I GET THE LIP-RTVE DATABASE? 
 
