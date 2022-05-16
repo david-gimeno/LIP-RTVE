@@ -7,7 +7,7 @@ LIP-RTVE is an audiovisual database that was primarily conceived at the first in
 In order to obtain the LIP-RTVE corpus, you must first get access to the original RTVE database which is protected by an Non-Disclouse Agreement (NDA) license. Once you have solved this matter, by using our software and CSV files you will be able to extract the samples that define our compiled LIP-RTVE database. Detailed instructions described below.
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Wv-tIpf2h4xjMoPi_JLMWrVvlDSClGX2/view?usp=sharing" width="500" alt="An extract of LIP-RTVE samples"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Wv-tIpf2h4xjMoPi_JLMWrVvlDSClGX2" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
 
 ### DATA STRUCTURE & SCRIPTS
