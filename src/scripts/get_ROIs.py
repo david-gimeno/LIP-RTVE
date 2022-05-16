@@ -1,7 +1,7 @@
 """
 Authors: David Gimeno-Gomez & Carlos-D. Martinez Hinarejos
 
-Algorithm in charge of extracting the SOTA Regions of Interest was mainly based on the work carried out in:
+The algorithm in charge of extracting the SOTA Regions of Interest was mainly based on the work carried out in:
 
 https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages/tree/master/dataloader
 
