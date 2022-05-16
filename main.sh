@@ -2,8 +2,12 @@
 
 RTVE2018_path=$1
 
+mkdir ./data/
+mkdir ./data/transcriptions/
+mkdir ./data/landmarks/
+
 echo "Downloading landmarks.zip ..."
-gdown https://drive.google.com/uc?id=13oIvMv-xHp9t24RCCNOeIA6YvsAoZw9K
+gdown -O ./src/ https://drive.google.com/uc?id=13oIvMv-xHp9t24RCCNOeIA6YvsAoZw9K
 
 echo "Unzipping data"
 unzip ./src/transcriptions.zip -d ./data/transcriptions/
