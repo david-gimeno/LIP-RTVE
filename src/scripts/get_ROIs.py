@@ -99,9 +99,9 @@ def extract_rois(samples_dir, landmarks_dir, roi_types, output_dir):
 if __name__ == "__main__":
     ## DEFINING SCRIPT PARAMETERS ##
     parser = argparse.ArgumentParser(description='Region of Interest Extraction from the 68 facial landmarks previously computed',
-                                     epilog="Usage: python get_ROIs.py --samples-dir ./data/LIP-RTVE/ --landmarks-dir ./data/landmarks/ --roi-types fitMouths faces SOTA --output-dir ./ROIs/")
+                                     epilog="Usage: python get_ROIs.py --samples-dir ./data/LIP-RTVE/mp4/ --landmarks-dir ./data/landmarks/ --roi-types fitMouths faces SOTA --output-dir ./ROIs/")
 
-    parser.add_argument("--samples-dir", default="../data/LIP-RTVE/", type=str, help="Directory where MP4 samples are stored.")
+    parser.add_argument("--samples-dir", default="../data/LIP-RTVE/mp4/", type=str, help="Directory where MP4 samples are stored.")
     parser.add_argument("--landmarks-dir", default="../src/landmarks/", type=str, help="Directory where landmarks are stored.")
     parser.add_argument("--roi-types", nargs='+', default=["fitMouth", "wideMouth", "faces", "SOTA"], type=str, help="List that indicates the types of ROIs must be extracted. You can choose whether extract the so-called 'fitMouths', 'wideMouths', 'faces' and/or 'SOTA'.")
     parser.add_argument("--output-dir", default="../data/ROIs/", type=str, help="Directory where ROIs will be stored.")
