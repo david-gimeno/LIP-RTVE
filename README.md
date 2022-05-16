@@ -33,7 +33,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
   - [**resources/**]() folder containing files needed by the scripts
 
 <p align="center">
-  <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" alt="The ROI extraction process and the different ROIs employed in our research"/>
+  <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.gif" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
 
 ##### THE COMPLETE LIP-RTVE DATABASE WILL BE PUBLICLY RELEASED AS SOON AS POSSIBLE.
