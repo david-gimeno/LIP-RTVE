@@ -17,7 +17,7 @@ processing the data to ensure a proper use of this database.
 
 In any case, we are updating the data has already been computed. Thus, our ultimate purpose is to provide it in the following structure:
 
-- [**src/alignments.csv :**](https://github.com/david-gimeno/LIP-RTVE/blob/main/data/alignments.csv) This file states where each sample of the LIP-RTVE corpus is located in the source data (RTVE2018 database¹). In this way, there are four columns:
+- [**src/alignments.csv :**](https://github.com/david-gimeno/LIP-RTVE/blob/main/src/alignments.csv) This file states where each sample of the LIP-RTVE corpus is located in the source data (RTVE2018 database¹). In this way, there are four columns:
      - **sampleID:** identificator of the LIP-RTVE sample.
      - **sourceID:** identificator of the TV programme (MP4 format) contained in the source data
      - **startTime:** timestamp when the LIP-RTVE sample starts in its corresponding sourceID
