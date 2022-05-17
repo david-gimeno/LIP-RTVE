@@ -25,7 +25,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 - [**src/transcriptions.zip :**]() ZIP file where text transcriptions for each LIP-RTVE sample were compressed as one-line txt files.
 - [**src/landmarks.zip :**]() ZIP file where the 68 facial landmarks³ for each sample of the LIP-RTVE are stored in pkl files. These landmarks, computed by using open-source software<sup>4,5</sup>, will allow you to extract the Regions of Interest (ROIs) with complete flexibility
 - [**src/splits/ :**]() Folder where partitions for both a speaker-independent and speaker-dependent scenario are defined with CSV files.
-- [**src/LM/textLM.txt :**] Text file where around 80k senteces were collected from different TV newcasts broadcast by RTVE during the same dates as the data that make up the LIP-RTVE corpus. 
+- [**src/LM/textLM.txt :**]() Text file where around 80k senteces were collected from different TV newcasts broadcast by RTVE during the same dates as the data that make up the LIP-RTVE corpus. 
 - [**src/scripts/ :**]() Folder where python scripts are shared in order to obtain and process the data of the LIP-RTVE corpus
   - [**get_samples.py :**]() script that uses the provided alignments to extract the MP4 samples of the LIP-RTVE from source data
   - [**get_ROIs.py**]() script to extract the same ROIs we employed in our research. More specifically, we worked with ROIs known as _fitMouth_, _wideMouths_ and _faces_, each of them covering from a smaller to a larger region of the speaker's face. In addition, there is an option that allows you to extract ROIs following the pattern of other authors, who have recently reached the state of the art in VSR⁶
