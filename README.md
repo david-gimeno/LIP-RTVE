@@ -45,7 +45,18 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
 
 ### CITATION
-We are awaiting for a response from the LREC conference regarding our proposed article.
+
+@InProceedings{gimenogmez-martnezhinarejos:2022:LREC,
+  author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
+  title = {LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild},
+  booktitle = {Proceedings of the Language Resources and Evaluation Conference},
+  month = {June},
+  year = {2022},
+  address = {Marseille, France},
+  publisher = {European Language Resources Association},
+  pages = {2750--2758},
+  url = {https://aclanthology.org/2022.lrec-1.294}
+}
 
 ### REFERENCES
 
