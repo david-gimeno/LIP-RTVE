@@ -45,6 +45,9 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
 
 ### CITATION
+
+If you use the LIP-RTVE database in your research, please consider citing the following paper:
+
 ```
 @InProceedings{liprtve2022lrec,
   author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
