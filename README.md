@@ -45,7 +45,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
 
 ### CITATION
-
+```
 @InProceedings{gimenogmez-martnezhinarejos:2022:LREC,
   author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
   title = {LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild},
@@ -57,7 +57,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
   pages = {2750--2758},
   url = {https://aclanthology.org/2022.lrec-1.294}
 }
-
+```
 ### REFERENCES
 
 1. Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Bazán, Virginia and Pérez, Carmen and Zotano, M and de Prada, Alberto. (2018). RTVE2018 database description. URL: http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf .
