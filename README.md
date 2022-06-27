@@ -48,7 +48,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 
 If you use the LIP-RTVE database in your research, please consider citing the following paper:
 
-```ruby
+```
 @InProceedings{liprtve2022lrec,
   author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
   title = {LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild},
