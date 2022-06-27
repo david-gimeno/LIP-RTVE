@@ -46,7 +46,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 
 ### CITATION
 ```
-@InProceedings{gimenogmez-martnezhinarejos:2022:LREC,
+@InProceedings{liprtve2022lrec,
   author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
   title = {LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild},
   booktitle = {Proceedings of the Language Resources and Evaluation Conference},
