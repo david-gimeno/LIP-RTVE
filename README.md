@@ -39,7 +39,7 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 ### HOW CAN I GET THE LIP-RTVE DATABASE? 
 
 1. Clikck [this link](http://catedrartve.unizar.es/rtvedatabase.html). Then, request and sign the Non-Disclouse Agreement license in order to be able to download the RTVE2018 database 
-2. Locate the folder containing the `train/` and `dev/` datasets from the TV programme known as 20H
+2. Locate the folder containing the `train/` and `dev/` datasets (directories) from the TV programme known as 20H
 3. Clone this repository: ```git clone https://github.com/david-gimeno/LIP-RTVE.git```
 4. Create a conda environment with all the necessary dependencies: ```cd LIP-RTVE; conda env create -f liprtve-env.yml```
 5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
