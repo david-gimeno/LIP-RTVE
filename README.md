@@ -61,6 +61,10 @@ If you use the LIP-RTVE database in your research, please consider citing the fo
   url = {https://aclanthology.org/2022.lrec-1.294}
 }
 ```
+## ACKNOWLEDGEMENTS
+
+This work was partially supported by Generalitat Valenciana under project DeepPattern (PROMETEO/2019/121) and by Ministerio de Ciencia under project MIRANDA-DocTIUM (RTI2018-095645-B-C22). The authors who compiled the database were working at Pattern Recognition and Human Language Technology (PRHLT) research center which belongs to the Universitat Politècnica de València.
+
 ### REFERENCES
 
 1. Lleida, Eduardo and Ortega, Alfonso and Miguel, Antonio and Bazán, Virginia and Pérez, Carmen and Zotano, M and de Prada, Alberto. (2018). RTVE2018 database description. URL: http://catedrartve.unizar.es/reto2018/RTVE2018DB.pdf .
