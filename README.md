@@ -10,6 +10,14 @@ In order to obtain the LIP-RTVE corpus, you must first get access to the origina
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/samples_corpus.gif" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
 
+### HOW CAN I GET THE LIP-RTVE DATABASE? 
+
+1. Clikck [this link](http://catedrartve.unizar.es/rtvedatabase.html). Then, request and sign the Non-Disclouse Agreement license in order to be able to download the RTVE2018 database 
+2. Locate the folder containing the `train/` and `dev/` datasets (i.e. directories) from the TV programme known as 20H
+3. Clone this repository: ```git clone https://github.com/david-gimeno/LIP-RTVE.git```
+4. Create a conda environment with all the necessary dependencies: ```cd LIP-RTVE; conda env create -f liprtve-env.yml```
+5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
+
 ### DATA STRUCTURE & SCRIPTS
 
 In order to facilitate the use of our data in future reseach and taking into account a Non-Disclouse Agreement (NSA) license, we are
@@ -35,14 +43,6 @@ In any case, we are updating the data has already been computed. Thus, our ultim
 <p align="center">
   <img src="https://github.com/david-gimeno/LIP-RTVE/blob/main/docs/roi_extraction_process.png" width="500" alt="An extract of LIP-RTVE samples"/>
 </p>
-
-### HOW CAN I GET THE LIP-RTVE DATABASE? 
-
-1. Clikck [this link](http://catedrartve.unizar.es/rtvedatabase.html). Then, request and sign the Non-Disclouse Agreement license in order to be able to download the RTVE2018 database 
-2. Locate the folder containing the `train/` and `dev/` datasets (i.e. directories) from the TV programme known as 20H
-3. Clone this repository: ```git clone https://github.com/david-gimeno/LIP-RTVE.git```
-4. Create a conda environment with all the necessary dependencies: ```cd LIP-RTVE; conda env create -f liprtve-env.yml```
-5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
 
 ### CITATION
 
