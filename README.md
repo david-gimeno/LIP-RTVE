@@ -16,7 +16,7 @@ In order to obtain the LIP-RTVE corpus, you must first get access to the origina
 2. Locate the folder containing the `train/` and `dev/` datasets (i.e. directories) from the TV programme known as 20H
 3. Clone this repository: ```git clone https://github.com/david-gimeno/LIP-RTVE.git```
 4. Create a conda environment with all the necessary dependencies: ```cd LIP-RTVE; conda env create -f liprtve-env.yml```
-5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```
+5. Once activated the conda environment, run the following command: ```./main.sh $RTVE2018_path```, where ```$RTVE2018_path``` refers to the directory mentioned in 2. (where the `train/` and `dev/` datasets (i.e. directories) from the TV programme are)
 
 ### DATA STRUCTURE & SCRIPTS
 
