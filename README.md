@@ -1,4 +1,4 @@
-<h1 align="center"><span style="font-weight:normal">LIP-RTVE<br />An Audio-Visual Database for Continous Spansih in the Wild</h1>  
+<h1 align="center"><span style="font-weight:normal">LIP-RTVE: An Audio-Visual<br />Database for Continous Spanish in the Wild</h1>  
 
   <div align="center">
     
