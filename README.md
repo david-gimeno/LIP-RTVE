@@ -1,5 +1,9 @@
-# LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild
-##### Authors: David Gimeno-Gómez & Carlos-D. Martínez-Hinarejos
+<h1 align="center"><span style="font-weight:normal">LIP-RTVE<br />An Audio-Visual Database for Continous Spansih in the Wild</h1>  
+
+  <div align="center">
+    
+[David Gimeno-Gómez](https://scholar.google.es/citations?user=DVRSla8AAAAJ&hl=en), [Carlos-D. Martínez-Hinarejos](https://scholar.google.es/citations?user=M_EmUoIAAAAJ&hl=en)
+</div>
 
 ### INTRODUCTION
 LIP-RTVE is an audiovisual database that was primarily conceived at the first instance as a corpus focused on the Automatic Lipreading or Visual Speech Recognition (VSR) task for the Spanish language. It is composed of around 13 hours of semi-automatically collected and annotated data. In addition, it belongs to the so-called _in the wild_ philosophy, since it was extracted from TV broadcast programmes contained in a subset of the RTVE2018 database¹ which has been employed in the Albayzín evaluations². Concretely, despite the fact that this database is made up of a wide range of programmes broadcast, we compiled our corpus only from the news programme known as 20H.
